@@ -1,0 +1,49 @@
+@font-face {
+   font-family: 'Noto Serif KR';
+   font-style: normal;
+   font-display: swap;
+   font-weight: 200;
+   src: url('file:///D:/%E5%A4%A7%E5%AD%B8%E4%BD%9C%E6%A5%AD/%E8%87%AA%E6%88%91%E4%BB%8B%E7%B4%B9/fonts/Noto Serif KR/200.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Noto Serif KR';
+   font-style: normal;
+   font-display: swap;
+   font-weight: 300;
+   src: url('file:///D:/%E5%A4%A7%E5%AD%B8%E4%BD%9C%E6%A5%AD/%E8%87%AA%E6%88%91%E4%BB%8B%E7%B4%B9/fonts/Noto Serif KR/300.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Noto Serif KR';
+   font-style: normal;
+   font-display: swap;
+   font-weight: 500;
+   src: url('file:///D:/%E5%A4%A7%E5%AD%B8%E4%BD%9C%E6%A5%AD/%E8%87%AA%E6%88%91%E4%BB%8B%E7%B4%B9/fonts/Noto Serif KR/500.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Noto Serif KR';
+   font-style: normal;
+   font-display: swap;
+   font-weight: 600;
+   src: url('file:///D:/%E5%A4%A7%E5%AD%B8%E4%BD%9C%E6%A5%AD/%E8%87%AA%E6%88%91%E4%BB%8B%E7%B4%B9/fonts/Noto Serif KR/600.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Noto Serif KR';
+   font-style: normal;
+   font-display: swap;
+   font-weight: 700;
+   src: url('file:///D:/%E5%A4%A7%E5%AD%B8%E4%BD%9C%E6%A5%AD/%E8%87%AA%E6%88%91%E4%BB%8B%E7%B4%B9/fonts/Noto Serif KR/700.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Noto Serif KR';
+   font-style: normal;
+   font-display: swap;
+   font-weight: 900;
+   src: url('file:///D:/%E5%A4%A7%E5%AD%B8%E4%BD%9C%E6%A5%AD/%E8%87%AA%E6%88%91%E4%BB%8B%E7%B4%B9/fonts/Noto Serif KR/900.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Noto Serif KR';
+   font-style: regular;
+   font-display: swap;
+   font-weight: 400;
+   src: url('file:///D:/%E5%A4%A7%E5%AD%B8%E4%BD%9C%E6%A5%AD/%E8%87%AA%E6%88%91%E4%BB%8B%E7%B4%B9/fonts/Noto Serif KR/regular.ttf') format('truetype');
+}
